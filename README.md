@@ -23,3 +23,6 @@ Programı çalıştırmak için aşağıdaki adımları izleyin:
 2. Ana sınıfı (Main.java) çalıştırın.
 3. Program açıldığında, GitHub depo linkini (Repository Url) girin.
 4. Program, depoyu klonlayacak ve gerekli analizleri yapacaktır.
+
+#### 
+Proje hakkında daha detaylı bilgi edinmek için [Rapor.docx](Rapor.docx) inceleyiniz.
